@@ -8,14 +8,6 @@ All projects, development, and activity are maintained under the organization:
 
 ---
 
-## Purpose
-
-* Maintain ownership of the Frappe Suite namespace
-* Ensure organizational continuity
-* Provide a stable root account for the ecosystem
-
----
-
 ## Note
 
 This account is not used for development or contributions.
