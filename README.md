@@ -1,16 +1,22 @@
-## Hi there 👋
+# FrappeSuite
 
-<!--
-**FrappeSuite/FrappeSuite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This account exists solely to own and manage the **Frappe Suite** GitHub organization.
 
-Here are some ideas to get you started:
+All projects, development, and activity are maintained under the organization:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 https://github.com/Frappe-Suite
+
+---
+
+## Purpose
+
+* Maintain ownership of the Frappe Suite namespace
+* Ensure organizational continuity
+* Provide a stable root account for the ecosystem
+
+---
+
+## Note
+
+This account is not used for development or contributions.
+Please refer to the organization for all repositories and updates.
